@@ -9,20 +9,6 @@ Before you begin, ensure you have met the following requirements:
 - Node.js (LTS version recommended)
 - npm (for managing packages)
 
-## Getting Started
-
-To get started with the TypeScript + Jest starter, follow these steps:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/typescript-jest-starter.git
-cd typescript-jest-starter
-npm install
-npm run test or execute test with IDE
-// one test should pass and one test should fail
-```
-
 ## Consigne Bowling
 
 Create a program, which, given a valid sequence of rolls for one line of American Ten-Pin Bowling, produces the total score for the game. Here are some things that the program will not do:
